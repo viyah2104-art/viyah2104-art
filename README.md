@@ -1,16 +1,25 @@
-## Hi there 👋
+# Viya Harpalani  
+B.Tech Computer Science Engineering | 1st Year  
+VIT Bhopal University  
 
-<!--
-**viyah2104-art/viyah2104-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+I am a first-year engineering student with an interest in programming and problem-solving. I am currently working on improving my technical and digital skills.
 
-Here are some ideas to get you started:
+## Career Goals  
+- Learn programming languages like Python and C++  
+- Build real-world projects  
+- Gain internship experience  
+- Become a skilled software developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- Basic Programming  
+- Problem Solving  
+- Microsoft Office Tools  
+- Digital Literacy  
+
+## Currently Learning  
+- Programming Basics  
+- Data Structures (Beginner Level)  
+
+## Contact  
+Email: viya.25bhi10089@vitbhopal.ac.in
